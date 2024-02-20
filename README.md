@@ -17,3 +17,4 @@ This script is very much a workaround. The better way to make a single line prin
 Dependencies:
 1). [The Pufferfish Grasshopper plugin]([url](https://www.food4rhino.com/en/app/pufferfish)https://www.food4rhino.com/en/app/pufferfish)
 
+![script screenshot](https://github.com/JasperCohen/Fixed-Layer-Width-Grasshopper-Script-/assets/72053634/b9923cbf-33a2-4e69-a1e8-4cf7fde89e99)
